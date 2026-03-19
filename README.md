@@ -54,7 +54,7 @@ For questions and technical support, please contact the development team or refe
 
 - 🏢 Developed by Awaiken Themes
 - 🎯 Modern and intuitive design
-- ©️ Copyright © 2024 Neodunk
+- ©️ Copyright © 2026 Neodunk
 
 ---
 

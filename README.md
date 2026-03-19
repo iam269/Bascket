@@ -1,8 +1,10 @@
-# 🏀 Neodunk - Basketball and Sports Club WordPress Theme
+# 🏀 Bascket - Basketball Club Website Template
 
 ## 📝 Description
 
-**Neodunk** is a professional and modern WordPress theme, specially designed for basketball clubs, sports associations, and sports-related websites. This theme offers an elegant and responsive design, perfect for presenting sports activities, teams, players, and events.
+**Bascket** is a static website template for basketball clubs and sports-related websites. This project is based on the **Neodunk** WordPress theme as a template and inspiration source. It offers an elegant and responsive design, perfect for presenting sports activities, teams, players, and events.
+
+> **Note**: This is a custom static implementation inspired by the Neodunk theme. The original Neodunk is a WordPress theme developed by Awaiken Themes.
 
 ## ✨ Main Features
 

@@ -6,6 +6,10 @@
 
 > **Note**: This is a custom static implementation inspired by the Neodunk theme. The original Neodunk is a WordPress theme developed by Awaiken Themes.
 
+## 🔗 Live Demo
+
+Visit the live demo: **[https://iam269.github.io/Bascket/](https://iam269.github.io/Bascket/)**
+
 ## ✨ Main Features
 
 - 🖥️ **Responsive Design**: Perfect appearance on all devices - mobile, tablet, and desktop

@@ -8,7 +8,7 @@
 
 ## 🔗 Live Demo
 
-Visit the live demo: **[https://iam269.github.io/Bascket/](https://iam269.github.io/Bascket/)**
+Visit the live demo: **[https://itsiamdev.github.io/Bascket/](https://itsiamdev.github.io/Bascket/)**
 
 ## ✨ Main Features
 
